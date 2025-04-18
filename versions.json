@@ -1,18 +1,25 @@
 {
     "scripts": {
-      "rz-mining": {
-        "version": "1.0.1",
-        "notes": "Initial Release",
-        "download": "KeyMaster",
-        "mandatory": true,
-        "released": "2025-04-18"
-      },
-      "rz-hud": {
-        "version": "1.0.0",
-        "notes": "Initial Release",
-        "download": "KeyMaster",
-        "mandatory": false,
-        "released": "2025-04-18"
-      }
+        "rz-mining": {
+            "version": "1.0.1",
+            "notes": "Initial Release",
+            "download": "KeyMaster",
+            "mandatory": true,
+            "released": "2025-04-18"
+        },
+        "rz-hud": {
+            "version": "1.0.0",
+            "notes": "Initial Release",
+            "download": "KeyMaster",
+            "mandatory": false,
+            "released": "2025-04-18"
+        },
+        "rz-weed": {
+            "version": "1.0.0",
+            "notes": "Initial Release",
+            "download": "KeyMaster",
+            "mandatory": false,
+            "released": "2025-04-18"
+        }
     }
   }
