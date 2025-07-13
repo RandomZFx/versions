@@ -1,11 +1,11 @@
 {
     "scripts": {
         "rz-mining": {
-            "version": "1.0.1",
-            "notes": "Initial Release",
+            "version": "1.0.2",
+            "notes": "Implemented ability to adjust Stash size",
             "download": "KeyMaster",
-            "mandatory": true,
-            "released": "2025-04-18"
+            "mandatory": false,
+            "released": "2025-07-13"
         },
         "rz-hud": {
             "version": "1.0.0",
@@ -22,11 +22,11 @@
             "released": "2025-04-18"
         },
         "prp-mining": {
-            "version": "1.0.1",
-            "notes": "Initial Release",
+            "version": "1.0.2",
+            "notes": "Implemented ability to adjust Stash size",
             "download": "KeyMaster",
-            "mandatory": true,
-            "released": "2025-04-18"
+            "mandatory": false,
+            "released": "2025-07-13"
         },
         "prp-hud": {
             "version": "1.0.0",
