@@ -8,11 +8,11 @@
             "released": "2025-07-13"
         },
         "rz-stripclubs": {
-            "version": "1.0.2",
-            "notes": "Added new quality of life features to config",
+            "version": "2.0.1",
+            "notes": "MUST UPDATE, OR ESX WILL NOT WORK NEITHER WILL QBCORE!",
             "download": "KeyMaster",
             "mandatory": true,
-            "released": "2025-11-21"
+            "released": "2026-05-09"
         },
         "rz-hud": {
             "version": "1.0.0",
