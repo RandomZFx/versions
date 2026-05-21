@@ -8,11 +8,11 @@
             "released": "2025-07-13"
         },
         "rz-stripclubs": {
-            "version": "2.0.2",
-            "notes": "Fix Issues with lap dances",
+            "version": "2.0.4",
+            "notes": "Added missing UI Folder... also added qs-inventory support",
             "download": "KeyMaster",
             "mandatory": true,
-            "released": "2026-05-09"
+            "released": "2026-05-21"
         },
         "rz-hud": {
             "version": "1.0.0",
